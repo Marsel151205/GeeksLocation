@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "552006356446",
+    "project_id": "geekslocation-aab65",
+    "storage_bucket": "geekslocation-aab65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552006356446:android:2cc9acf4ba0e604dd2214f",
+        "android_client_info": {
+          "package_name": "com.geektech.geekslocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552006356446-shk3s7399thkgffvnbt7cv7nsvgeuab2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZaX5mkUKmgRJ6wJOxUI0gV8c34R4wOfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552006356446-shk3s7399thkgffvnbt7cv7nsvgeuab2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552006356446:android:843f598834f4331bd2214f",
+        "android_client_info": {
+          "package_name": "com.geektech.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552006356446-shk3s7399thkgffvnbt7cv7nsvgeuab2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZaX5mkUKmgRJ6wJOxUI0gV8c34R4wOfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552006356446-shk3s7399thkgffvnbt7cv7nsvgeuab2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
